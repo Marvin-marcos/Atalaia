@@ -1,0 +1,115 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(197, 197, 197);
+}
+table {
+    border: 1px;
+    background-color:rgb(4, 4, 84);
+    color:aliceblue;
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+    padding: 1rem; 
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: goldenrod;
+    color: rgb(4, 4, 84);
+
+}
+.info01{ 
+    background-color: azure;
+    padding: 1rem;
+    border-radius: 1rem;
+    width: 200px;
+    height: 400px;
+
+}
+
+aside {
+    background-color: #e9ecef;
+    padding: 3%;
+    border-left: 2px solid;
+    font-size: 110%;
+}
+
+.imagem-meio img {
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+div img {
+    display: block;
+    margin: auto;
+    background-color: goldenrod;
+    border-radius: 5px;
+    height: 100%;
+
+}
+section {
+    margin-bottom: 40px;
+    margin-left: 15px;
+    text-align: center;
+    font-size: 30px;
+    max-width: max-content;
+    background-color: #ececec;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin: 1%;
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 15px;
+}
+header {
+    border-left: 10% solid;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    padding: 35px;
+    margin-bottom: 40px;
+    margin-left: 15px;
+    text-align: center;
+    font-size: 30px;
+    max-width: max-content;
+    background-color: #ececec;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin: 1%;
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 15px;
+}
+main {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 50px;
+    color: rgb(4, 4, 84);
+    text-align: center;
+}
+.titulo p {
+display: block;
+background-color: rgb(255, 153, 0);
+}
+
+.imagem-1 {
+    text-align: center;
+}
+h2 {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 50px;
+    color: rgb(4, 4, 84);
+    text-align: center;
+}
+.imagerm-2 {
+    text-align: center;
+}
